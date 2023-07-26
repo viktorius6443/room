@@ -595,7 +595,7 @@
     }
 
     .contacts{
-        background-color: #F4F4F4;
+        background-color: #cbcaca;
         height: 20px;
     }
 
@@ -608,21 +608,22 @@
 
     .contact > li > a{
         text-decoration: none;
-        color: #AAA;
-        font-size: 2px;
+        color: rgb(106, 106, 106);
+        font-size: 6px;
         font-weight: 400;
         line-height: 3px;
         letter-spacing: 1px;
-        
+        text-transform: uppercase;
     }
 
     .contact > li > p{
-        color: #AAA;
-        font-size: 2px;
+        color: rgb(106, 106, 106);
+        font-size: 6px;
         font-weight: 400;
         line-height: 3px;
         letter-spacing: 1px;
         margin-top: 6px;
+        text-transform: uppercase;
     }
 
     .arrow{
